@@ -1,0 +1,21 @@
+body {         
+    background-color: #e7f0fd;
+}   
+
+h1 {
+    color: rgb(46, 36, 239);
+    font-size: 28px; text-align:center;
+  }
+h2 { color :rgb(3, 3, 100) ;
+    font-size: 25px ;text-align:center; 
+   }
+p1 {
+    color: #034007;
+    font-size: 20px;text-align:left;
+  }  
+ol { color: #1806a0; font-size: 16px;
+   }
+p {
+    color: #121858;
+    font-size: 17px;text-align:left;
+   }
